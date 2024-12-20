@@ -1,6 +1,3 @@
-[submodule "ckan-docker"]
-	path = ckan-docker
-	url = https://github.com/ckan/ckan-docker
 [submodule "datopian-frontend-v2"]
 	path = datopian-frontend-v2
 	url = https://github.com/mikhsandev/datopian-frontend-v2
